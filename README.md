@@ -1,6 +1,6 @@
-# GoAnimate Assets
-This is a cool recreation of the `d3v4eglovri8yt` CloudFront server used by GoAnimate's Legacy Video Maker prior to its retirement, along with a bunch of community-made mods.
-
+# Vyond Legacy Remastered
+This is Last year Legacy Video maker is retired on 19th December 2019 Original Vyond Legacy called
+Vyond Legacy Remastered until 2020!
 ## How to Contribute
 Simply make a pull request.
 
